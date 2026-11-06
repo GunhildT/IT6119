@@ -1,0 +1,14 @@
+# Helsedata og andre datafiler
+*.xlsx
+*.xls
+*.csv
+
+# Midlertidige Jupyter-filer
+.ipynb_checkpoints/
+
+# Lokale filer og sikkerhetskopier
+Oppgave Helsedata
+Oppgave Helsedata-Korrigert.ipynb
+
+# Python
+__pycache__/
